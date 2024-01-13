@@ -2,15 +2,16 @@ export const App = () => {
   return (
     <div
       style={{
+        backgroundColor: '#000000',
         height: '100vh',
         display: 'flex',
         justifyContent: 'center',
         alignItems: 'center',
-        fontSize: 40,
-        color: '#010101'
+        fontSize: 35,
+        color: '#f3f900',
       }}
     >
-      React homework template
+      Volodumur Kozakov HW 1
     </div>
   );
 };
