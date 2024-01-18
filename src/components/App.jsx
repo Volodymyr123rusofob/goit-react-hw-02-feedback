@@ -1,8 +1,8 @@
 import { Component } from 'react';
-import FeedbackOptions from './Feedback/FeedbackOptions';
-import Statistics from './Feedback/Statistics';
-import Section from './Feedback/Section';
-import Notification from './Feedback/Notification';
+import FeedbackOptions from './Feedback/feedbackOptions/FeedbackOptions';
+import Statistics from './Feedback/statistics/Statistics';
+import Section from './Feedback/section/Section';
+import Notification from './Feedback/notification/Notification';
 
 import style from './app.module.css';
 
